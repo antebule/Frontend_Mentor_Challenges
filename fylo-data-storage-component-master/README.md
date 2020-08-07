@@ -2,6 +2,8 @@
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
+Link for live website -> https://fylo-data-storage-two-chi.vercel.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
